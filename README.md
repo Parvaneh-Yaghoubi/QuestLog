@@ -120,10 +120,22 @@ UserStats {
     <img src="https://raw.githubusercontent.com/Parvaneh-Yaghoubi/QuestLog/main/public/screenshot-desktop.png" height=200px>
     </a>
 </td>
+      <td align="center">
+    <h3>Desktop View</h3>
+    <a href="https://github.com/Parvaneh-Yaghoubi/QuestLog/blob/main/public/screenshot-desktop-light.png">
+    <img src="https://raw.githubusercontent.com/Parvaneh-Yaghoubi/QuestLog/main/public/screenshot-desktop-light.png" height=200px>
+    </a>
+</td>
 <td  align="center">
     <h3>Mobile View</h3>
     <a href="https://github.com/Parvaneh-Yaghoubi/QuestLog/blob/main/public/screenshot-mobile.png">
     <img src="https://raw.githubusercontent.com/Parvaneh-Yaghoubi/QuestLog/main/public/screenshot-mobile.png" height=200px>
+    </a>
+    </td>
+      <td  align="center">
+    <h3>Mobile View</h3>
+    <a href="https://github.com/Parvaneh-Yaghoubi/QuestLog/blob/main/public/screenshot-mobile-light.png">
+    <img src="https://raw.githubusercontent.com/Parvaneh-Yaghoubi/QuestLog/main/public/screenshot-mobile-light.png" height=200px>
     </a>
     </td>
     <tr>
